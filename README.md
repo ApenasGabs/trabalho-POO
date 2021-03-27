@@ -19,8 +19,7 @@ Atributos divididos, tem ataque e defesa medianos e pouco poder.
 Atributos básicos, são os que têm mais cartas no baralho.
 
 ## Carta Rara
-Atributos medianos, melhor que o comum, e aparece mais vezes no baralho do que o lendário.
+Atributos medianos, melhor que o comum, e aparece menos no baralho do que o comum e mais vezes do que o lendário.
 
 ## Carta Lendária
-Difícil de aparecer, melhores atributos, mas difícil achar.
-
+Difícil de aparecer, melhores atributos, mas difícil de encontrar.
